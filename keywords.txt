@@ -1,0 +1,100 @@
+Fedora
+flavor
+ARM
+Linux
+servers
+free operating system
+OS
+open source
+Debian
+Ubuntu
+GNU
+supervisor
+daemon
+x86_64
+x86
+kernel
+compilier
+compiling
+distribution
+nonprofit
+Emulator
+computer
+ROM
+GBMac
+advance
+version
+pokemon
+gameboy
+color
+PPU
+SNES
+GNU
+beta
+free
+N64
+compatibility
+systems
+amd64
+platform
+GBE
+MySQL
+cloud
+service
+IRC
+detection
+changelog
+oracle
+privacy
+users
+workbench
+server
+files
+SQL
+cluster
+database
+documentation
+MyAccess
+tables
+query
+data
+Vim
+Vi
+IDE
+syntax highlighting
+UNIX
+helptags
+bash
+editors
+buffer
+plugins
+macros
+commands
+open source
+power user
+mode
+text editor
+GNU/Linux
+programmer
+shortcuts
+vimrc
+free
+software
+open source
+services
+online
+program
+FreeBSD
+official
+public
+mozilla
+license
+copyright
+agreement
+terms and conditions
+internet
+python
+PHP
+Language
+privacy policy
+Ruby
