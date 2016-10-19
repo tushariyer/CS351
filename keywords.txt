@@ -44,7 +44,7 @@ IRC
 detection
 changelog
 oracle
-privacy
+debugger
 users
 workbench
 server
