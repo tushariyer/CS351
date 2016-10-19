@@ -3,9 +3,8 @@ flavor
 ARM
 Linux
 servers
-free operating system
+operating
 OS
-open source
 Debian
 Ubuntu
 GNU
@@ -29,7 +28,7 @@ gameboy
 color
 PPU
 SNES
-GNU
+movement
 beta
 free
 N64
@@ -61,7 +60,8 @@ data
 Vim
 Vi
 IDE
-syntax highlighting
+syntax
+highlighting
 UNIX
 helptags
 bash
@@ -70,17 +70,15 @@ buffer
 plugins
 macros
 commands
-open source
-power user
+user
 mode
-text editor
+text
+editor
 GNU/Linux
 programmer
 shortcuts
 vimrc
-free
 software
-open source
 services
 online
 program
@@ -91,10 +89,12 @@ mozilla
 license
 copyright
 agreement
-terms and conditions
+terms
+conditions
 internet
 python
 PHP
 Language
-privacy policy
+privacy
+policy
 Ruby
