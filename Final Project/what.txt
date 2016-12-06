@@ -1,0 +1,45 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.M5P -M 4.0
+Relation:     FeatureVector
+Instances:    50
+Attributes:   100
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+M5 pruned model tree:
+(using smoothed linear models)
+
+compilier <= 0.5 : LM1 (39/0%)
+compilier >  0.5 : LM2 (11/81.519%)
+
+LM num: 1
+Ruby = 
+	-0.0507 * operating 
+	+ 0.1301 * compilier 
+	+ 0.0572 * distribution 
+	- 0.0166
+
+LM num: 2
+Ruby = 
+	-0.2167 * operating 
+	+ 0.2703 * compilier 
+	+ 0.4639 * distribution 
+	+ 0.01
+
+Number of Rules : 2
+
+Time taken to build model: 0.01 seconds
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.4058
+Mean absolute error                      0.1358
+Root mean squared error                  0.2878
+Relative absolute error                 73.779  %
+Root relative squared error             93.7538 %
+Total Number of Instances               50     
+
